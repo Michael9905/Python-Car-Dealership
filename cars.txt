@@ -1,0 +1,8 @@
+1,Toyota Camry,2015,$11500
+2,Toyota Corolla,2007,$7300
+3,Honda Civic,2010,$9500
+4,BMW 3,2018,$16000
+5,Ford Focus,2013,$10500
+6,Hyundai Elantra,2015,$9750
+7,Land Rover Range Rover,2017,$15200
+8,Nissan Altima,2009,$6500
